@@ -1,5 +1,13 @@
 # Extending PMD
 
+
+JAVA 
+
+https://pmd.github.io/latest/pmd_userdocs_extending_writing_rules_intro.html
+https://pmd.github.io/latest/pmd_userdocs_extending_your_first_rule.html
+https://www.google.com/search?client=opera-gx&q=JAVAFX_HOME&sourceid=opera&ie=UTF-8&oe=UTF-8
+
+
 Use XPath to define a new rule for PMD to prevent complex code. The rule should detect the use of three or more nested `if` statements in Java programs so it can detect patterns like the following:
 
 ```Java
